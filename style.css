@@ -24,6 +24,13 @@ p {
   color: #fff;
   text-shadow: 1px 1px black;
 }
+table {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+  text-shadow: 1px 1px black;
+}
 input[type=text]{
   width: 100%;
   padding: 12px 20px;
