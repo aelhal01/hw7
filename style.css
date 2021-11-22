@@ -10,8 +10,25 @@
 h1 {
   font-size: 30px;
   text-align: center;
-  padding: 15px;
+  padding: 50px;
   text-transform: uppercase;
   color: #fff;
   text-shadow: 1px 1px black;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+  text-shadow: 1px 1px black;
+}
+input[type=text]{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background: #fff;
+}
+input[type=text]:focus {
+  background-color: lightblue;
 }
